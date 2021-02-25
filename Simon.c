@@ -1,7 +1,7 @@
 /* 
  * Name: Justin Sohnne
  * Subject: APSC160 LAB 8 SIMON GAME
- * Student Number: 75575520
+ * Date: Dec. 1, 2017
  * Lab Section: L1A
  * UBC Alumni e-mail address: justin.sohn08@alumni.ubc.ca
  * Purpose of code: Implements the Simon game
