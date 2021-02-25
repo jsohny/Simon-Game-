@@ -1,2 +1,2 @@
-# Simon-Game-
-Simon Memory Game. *DAQ module required to run program
+# Simon-Game
+*Created in Fall 2017. Simon Memory Game. Note: DAQ module required to run program
